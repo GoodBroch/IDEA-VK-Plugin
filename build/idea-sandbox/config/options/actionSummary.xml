@@ -1,0 +1,33 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$SelectAll">
+        <ActionSummary times="3" last="1623026761154" />
+      </entry>
+      <entry key="ActivateFavoritesToolWindow">
+        <ActionSummary times="1" last="1622852814667" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="67" last="1623083805492" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="1" last="1623021210988" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="1" last="1623021603028" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="2" last="1623019419979" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1622852641876" />
+      </entry>
+      <entry key="com.intellij.diagnostic.WindowsDefenderFixAction">
+        <ActionSummary times="1" last="1623017899084" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="2" last="1622852819014" />
+      </entry>
+    </data>
+  </component>
+</application>

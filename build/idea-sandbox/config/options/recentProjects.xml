@@ -1,0 +1,51 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Project/FringleChem">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1szZVAz5sUX1CQLO8Y9cWdoXk0Q">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-201.8538.31" />
+              <option name="buildTimestamp" value="1594112251776" />
+              <frame x="285" y="19" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1622930259249" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Project/VKPlugin">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1tV30zkoZ3DNbM5S1oQ1ZNCPnxF">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-201.8538.31" />
+              <option name="buildTimestamp" value="1594112236833" />
+              <frame x="-8" y="-8" width="1936" height="1066" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1623019406862" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Project/JavaDlyaGeev">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1opfNYmxIiLs3X0aARr8RvJd9Da">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-201.8538.31" />
+              <option name="buildTimestamp" value="1594112229928" />
+              <frame x="0" y="0" width="1920" height="1050" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1623084558170" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/Project/JavaDlyaGeev" />
+        <option value="$USER_HOME$/Desktop/Project/VKPlugin" />
+        <option value="$USER_HOME$/Desktop/Project/FringleChem" />
+      </list>
+    </option>
+  </component>
+</application>

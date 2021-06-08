@@ -1,0 +1,9 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/VKPlugin.iml" filepath="$PROJECT_DIR$/.idea/VKPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VKPlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/VKPlugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VKPlugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/VKPlugin.test.iml" />
+    </modules>
+  </component>
+</project>

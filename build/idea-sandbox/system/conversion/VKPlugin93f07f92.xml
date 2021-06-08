@@ -1,0 +1,16 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Mi\Desktop\Project\VKPlugin\.idea\jarRepositories.xml" timestamp="1622840282827" />
+    <file path="C:\Users\Mi\Desktop\Project\VKPlugin\.idea\compiler.xml" timestamp="1622840255802" />
+    <file path="C:\Users\Mi\Desktop\Project\VKPlugin\.idea\misc.xml" timestamp="1622930826412" />
+    <file path="C:\Users\Mi\Desktop\Project\VKPlugin\.idea\workspace.xml" timestamp="1623019426585" />
+    <file path="C:\Users\Mi\Desktop\Project\VKPlugin\.idea\gradle.xml" timestamp="1622930826428" />
+  </project-files>
+</conversion>

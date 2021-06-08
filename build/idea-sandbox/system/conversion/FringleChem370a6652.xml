@@ -1,0 +1,22 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\modules.xml" timestamp="1622669748719" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\misc.xml" timestamp="1621878559151" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\gradle.xml" timestamp="1621976819247" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\compiler.xml" timestamp="1622577847975" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\workspace.xml" timestamp="1622930811173" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\FringleChem.iml" timestamp="1622669748650" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\runConfigurations\runData.xml" timestamp="1622056642319" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\runConfigurations\runServer.xml" timestamp="1622056642320" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\uiDesigner.xml" timestamp="1622063231952" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\runConfigurations\runClient.xml" timestamp="1622056642316" />
+    <file path="C:\Users\Mi\Desktop\Project\FringleChem\.idea\jarRepositories.xml" timestamp="1621878319761" />
+  </project-files>
+</conversion>

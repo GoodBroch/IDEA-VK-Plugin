@@ -1,0 +1,14 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="201.8538" until-build="201.*"/>
+  <id>org.goodbroch.vkplugin</id>
+  <name>GoodBrochPlugin</name>
+  <vendor email="admin@goodbroch.com" url="http://www.goodbroch.com">GoodBroch inc.</vendor>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <toolWindow id="VKPlugin" anchor="right" factoryClass="Main"/>
+  </extensions>
+</idea-plugin>

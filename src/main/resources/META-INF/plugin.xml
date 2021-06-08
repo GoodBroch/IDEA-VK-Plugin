@@ -1,0 +1,11 @@
+<idea-plugin>
+    <id>org.goodbroch.vkplugin</id>
+    <name>GoodBrochPlugin</name>
+    <vendor email="admin@goodbroch.com" url="http://www.goodbroch.com">GoodBroch inc.</vendor>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="VKPlugin" anchor="right" factoryClass="Main"/>
+    </extensions>
+</idea-plugin>
